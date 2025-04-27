@@ -24,9 +24,10 @@ qmk 웹사이트에 문서가 잘되어 있으므로 참고 바랍니다.<br>
 
 -- vial --<br>
 첨부된 펌웨어 파일 플래시 하시면 됩니다.<br>
+<br>
 플래시 방법은 위 내용의 3번 부터 동일 합니다.<br>
 <br>
-직접 컴파일 할경우<br>
+-직접 컴파일 할경우-<br>
 https://github.com/vial-kb/vial-qmk<br>
 에서 클론 하고<br>
 keyboards/kprepublic 디렉토리에 소스파일 복사한 뒤에<br>
