@@ -22,13 +22,13 @@ vial 을 지원하지만 주요 기능들이 막혀있고 레이어도 4개로 �
 오버라이딩이나 탭댄스 , vial 활성화 기타 등등은 <br>
 qmk 웹사이트에 문서가 잘되어 있으므로 참고 바랍니다.<br>
 
--- vial --
-첨부된 펌웨어 파일 플래시 하시면 됩니다.
-
-직접 컴파일 할경우
-https://github.com/vial-kb/vial-qmk
-에서 클론 하고
-keyboards 디렉토리에 소스파일 복사한 뒤에
-vial-qmk 디렉토리에서 아래 명령어 입력 하면 됩니다.
-make kprepublic/cstc40v2/single_pcb:vial
+-- vial --<br>
+첨부된 펌웨어 파일 플래시 하시면 됩니다.<br>
+<br>
+직접 컴파일 할경우<br>
+https://github.com/vial-kb/vial-qmk<br>
+에서 클론 하고<br>
+keyboards 디렉토리에 소스파일 복사한 뒤에<br>
+vial-qmk 디렉토리에서 아래 명령어 입력 하면 됩니다.<br>
+make kprepublic/cstc40v2/single_pcb:vial<br>
 
