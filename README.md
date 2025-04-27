@@ -47,6 +47,7 @@ https://www.reddit.com/r/olkb/comments/1hkfo6g/comment/m72ccp8/?context=3<br>
 참고 - 확실하지는 않고 pcb 마다 다를지 모르나 <br>
 구글 검색 결과 cstc40 의 EEPROM size 는 64kb 로 추정됩니다.<br>
 <br>
+<br>
 
 <img src="https://github.com/user-attachments/assets/a7e9f4f1-db40-4354-9d6d-72f8d089b8fd">
 
