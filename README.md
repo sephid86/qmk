@@ -40,10 +40,11 @@ keyboards/kprepublic 디렉토리에 소스파일 복사한 뒤에<br>
 vial-qmk 디렉토리로 이동하여 아래 명령어 입력 하면 됩니다.<br>
 make kprepublic/cstc40v2/single_pcb:vial<br>
 <br>
-<br>
 cstc40 핀 아웃 출처 <br>
 https://www.reddit.com/user/Accomplished_Pick819/<br>
 https://www.reddit.com/r/olkb/comments/1hkfo6g/comment/m72ccp8/?context=3<br>
+<br>
+<br>
 
 <img src="https://github.com/user-attachments/assets/a7e9f4f1-db40-4354-9d6d-72f8d089b8fd">
 
