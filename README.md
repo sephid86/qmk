@@ -1,8 +1,6 @@
-![20250426_190920](https://github.com/user-attachments/assets/946bd8a9-b66d-4618-bdf0-c01fac5de286)
-
 # 제가 사용하는 QMK 키보드 소스 파일들 입니다.
 --이곳 자료를 이용하여 발생하는 모든 책임은 사용자에게 있습니다.--
-
+![20250426_190920](https://github.com/user-attachments/assets/946bd8a9-b66d-4618-bdf0-c01fac5de286)
 cstc40
 --
 2024년11월 이후 공급된 cstc40 은 pcb 가 변경되어 qmk 를 지원하지 않으며<br>
