@@ -1,3 +1,4 @@
+![20250426_190920](https://github.com/user-attachments/assets/946bd8a9-b66d-4618-bdf0-c01fac5de286)
 # 제가 사용하는 QMK 키보드 소스 파일들 입니다.
 --이곳 자료를 이용하여 발생하는 모든 책임은 사용자에게 있습니다.--
 
@@ -35,6 +36,7 @@ vial-qmk 디렉토리로 이동하여 아래 명령어 입력 하면 됩니다.<
 make kprepublic/cstc40v2/single_pcb:vial<br>
 <br>
 <br>
+![20250427_230747](https://github.com/user-attachments/assets/a7e9f4f1-db40-4354-9d6d-72f8d089b8fd)
 
 gk61 pro
 --
