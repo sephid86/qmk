@@ -37,9 +37,6 @@ vial-qmk 디렉토리로 이동하여 아래 명령어 입력 하면 됩니다.<
 make kprepublic/cstc40v2/single_pcb:vial<br>
 <br>
 <br>
-![20250427_230747](https://github.com/user-attachments/assets/a7e9f4f1-db40-4354-9d6d-72f8d089b8fd)
-![20250427_230747](https://github.com/user-attachments/assets/a7e9f4f1-db40-4354-9d6d-72f8d089b8fd)
-![20250427_230747](https://github.com/user-attachments/assets/a7e9f4f1-db40-4354-9d6d-72f8d089b8fd)
 
 gk61 pro
 --
