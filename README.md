@@ -28,7 +28,7 @@ qmk 웹사이트에 문서가 잘되어 있으므로 참고 바랍니다.<br>
 직접 컴파일 할경우<br>
 https://github.com/vial-kb/vial-qmk<br>
 에서 클론 하고<br>
-keyboards 디렉토리에 소스파일 복사한 뒤에<br>
+keyboards/kprepublic 디렉토리에 소스파일 복사한 뒤에<br>
 vial-qmk 디렉토리에서 아래 명령어 입력 하면 됩니다.<br>
 make kprepublic/cstc40v2/single_pcb:vial<br>
 
