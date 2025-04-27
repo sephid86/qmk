@@ -4,6 +4,7 @@
 <br>
 ![20250426_190920](https://github.com/user-attachments/assets/946bd8a9-b66d-4618-bdf0-c01fac5de286)
 <br>
+<br>
 cstc40
 --
 2024년11월 이후 공급된 cstc40 은 pcb 가 변경되어 qmk 를 지원하지 않으며<br>
