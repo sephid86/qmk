@@ -47,7 +47,7 @@ make kprepublic/cstc40v2/single_pcb:vial<br>
 gk61 pro
 --
 skyloong gk61 pro 스페이스바가 빨간색 스플릿 모델입니다. (사진첨부)<br>
-qmk 공식에 소스파일이 없어서 구글링으로 뒤져서 찾아낸 소스파일입니다.<br>
+qmk 공식에 소스파일이 없어서 구글검색으로 찾아낸 소스파일입니다.<br>
 qmk 의 keyboards/skyloong/gk61 디렉토리로 복사해서 사용하시면 됩니다.<br>
 <br>
 <br>
