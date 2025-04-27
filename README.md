@@ -9,7 +9,7 @@ vial 을 지원하지만 주요 기능들이 막혀있고 레이어도 4개로 �
 이곳의 소스파일을 이용하면 해당 모델에서 qmk 사용이 가능합니다.<br>
 그리고 RGB 를 사용할수 없습니다.<br>
 <br>
-1. 파일을 다운받거나 클론하여 qmk 의 keyboards/kprepublic 아래에 복사해줍니다.<br>
+1. cstc40v2 다운받거나 클론하여 qmk 의 keyboards/kprepublic 아래에 복사해줍니다.<br>
 2. 아래 명령어로 컴파일 해줍니다.<br>
    qmk compile -kb kprepublic/cstc40v2/single_pcb -km sephid86<br>
 3. 정상적으로 컴파일이 완료되었다면 키보드를 부트모드로 진입합니다.<br>
