@@ -38,6 +38,8 @@ make kprepublic/cstc40v2/single_pcb:vial<br>
 <br>
 <br>
 
+<img src="https://github.com/user-attachments/assets/a7e9f4f1-db40-4354-9d6d-72f8d089b8fd">
+
 gk61 pro
 --
 skyloong gk61 pro 스페이스바가 빨간색 스플릿 모델입니다. (사진첨부)<br>
