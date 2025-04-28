@@ -95,7 +95,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * └───┴───┴───┴───┴───┴───────┴───┴───┴───┴───┴───┘
      */
     [_NAVI] = LAYOUT_planck_mit(
-        KC_GRV,   KC_EXLM,    KC_AT,  KC_HASH,   KC_DLR,  KC_PERC,  KC_CIRC,  KC_AMPR,  KC_ASTR,  KC_LPRN,  KC_RPRN,  KC_BSPC,
+        QK_BOOT,   KC_EXLM,    KC_AT,  KC_HASH,   KC_DLR,  KC_PERC,  KC_CIRC,  KC_AMPR,  KC_ASTR,  KC_LPRN,  KC_RPRN,  KC_BSPC,
         KC_CAPS,  _______,  KC_PSCR,  _______,  _______,  _______,  _______,  KC_VOLU,  KC_HOME,  KC_PGUP, KC_QUOTE,  KC_TRNS,
         KC_TRNS,  _______,  _______,  _______,  _______,  _______,  _______,  KC_VOLD,   KC_END,  KC_PGDN,    KC_UP,  KC_TRNS,
         KC_TRNS,  KC_TRNS,  KC_TRNS,  _______,  _______,            KC_TRNS,  _______,  _______,  KC_LEFT,  KC_DOWN, KC_RIGHT
