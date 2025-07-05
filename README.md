@@ -14,6 +14,10 @@ vial 을 지원하지만 주요 기능들이 막혀있고 레이어도 4개로 �
 <br>
 이곳의 소스파일을 이용하면 해당 모델에서 qmk 사용이 가능합니다.<br>
 그리고 RGB 를 사용할수 없습니다.<br>
+아래 링크로 가면 RGB 도 사용할수 있습니다. rev3 를 확인하시기 바랍니다.<br> 
+https://github.com/clownfish-og/vial-qmk/tree/cstc40-rev3/keyboards/kprepublic/cstc40
+<br>
+
 <br>
 1. cstc40v2 디렉토리를 qmk 의 keyboards/kprepublic 아래에 복사해줍니다.<br>
 2. 아래 명령어로 컴파일 해줍니다.<br>
