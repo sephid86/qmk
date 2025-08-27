@@ -1,6 +1,7 @@
 제가 사용하는 QMK 키보드 소스 파일들 입니다.
 --
--- 이곳의 자료를 이용하여 발생하는 모든 책임은 사용자에게 있습니다. -- 
+-- 이곳의 자료를 이용하여 발생하는 모든 책임은 사용자에게 있습니다. -- <br>
+2025-08-27 업데이트
 <br>
 <br>
 
@@ -13,15 +14,19 @@ cstc40
 vial 을 지원하지만 주요 기능들이 막혀있고 레이어도 4개로 제한되어 있습니다.<br>
 <br>
 이곳의 소스파일을 이용하면 해당 모델에서 qmk 사용이 가능합니다.<br>
-그리고 RGB 를 사용할수 없습니다.<br>
-아래 링크로 가면 RGB 도 사용할수 있습니다. rev3 를 확인하시기 바랍니다.<br> 
+<br>
+keymaps 에서 vial 과 sephid86 의 keymap.c 은 직접 작성하였고 <br>
+그외의 파일들은 아래 링크에서 포크하였습니다.  
+<br>
 https://github.com/clownfish-og/vial-qmk/tree/cstc40-rev3/keyboards/kprepublic/cstc40
 <br>
 
 <br>
-1. cstc40v2 디렉토리를 qmk 의 keyboards/kprepublic 아래에 복사해줍니다.<br>
+0. qmk_firmware 의 keyboards/kprepublic 에서 기존 cstc40 디렉토리를 삭제해줍니다.<br>
+1. 클론한 cstc40 디렉토리를 qmk_firmware 의 keyboards/kprepublic 아래에 복사해줍니다.<br>
 2. 아래 명령어로 컴파일 해줍니다.<br>
-   qmk compile -kb kprepublic/cstc40v2/single_pcb -km sephid86<br>
+   qmk compile -kb kprepublic/cstc40/rev3 -km sephid86<br>
+   ( 또는 make kprepublic/cstc40/rev3:sephid86 ) <br>
 3. 정상적으로 컴파일이 완료되었다면 키보드를 부트모드로 진입합니다.<br>
    키보드 ESC 키를 누른 상태에서 USB 케이블을 연결하거나<br>
    키보드 뒷면의 리셋 스위치를 눌러 부트모드로 진입합니다.<br>
@@ -37,12 +42,14 @@ qmk 웹사이트에 문서가 잘되어 있으므로 참고 바랍니다.<br>
 <br>
 플래시 방법은 위 내용의 3번 부터 동일 합니다.<br>
 <br>
-- 직접 컴파일 할경우 -<br>
+- vial 직접 컴파일 할경우 -<br>
 https://github.com/vial-kb/vial-qmk<br>
 에서 클론 하고<br>
-keyboards/kprepublic 디렉토리에 소스파일 복사한 뒤에<br>
+
+vial-qmk 의 keyboards/kprepublic 에서 기존 cstc40 디렉토리를 삭제해줍니다.<br>
+클론한 cstc40 디렉토리를 vial-qmk 의 keyboards/kprepublic 아래에 복사해줍니다.<br>
 vial-qmk 디렉토리로 이동하여 아래 명령어 입력 하면 됩니다.<br>
-make kprepublic/cstc40v2/single_pcb:vial<br>
+make kprepublic/cstc40/rev3:vial<br>
 <br>
 cstc40 핀 아웃 출처 <br>
 https://www.reddit.com/user/Accomplished_Pick819/<br>
