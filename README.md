@@ -42,7 +42,7 @@ qmk 웹사이트에 문서가 잘되어 있으므로 참고 바랍니다.<br>
 플래시 방법은 위 내용의 3번 부터 동일 합니다.<br>
 <br>
 - vial 직접 컴파일 할경우 -<br>
-https://github.com/vial-kb/vial-qmk<br>
+https://github.com/vial-kb/vial-qmk  
 에서 클론 하고<br>
 
 vial-qmk 의 keyboards/kprepublic 에서 기존 cstc40 디렉토리를 삭제해줍니다.<br>
